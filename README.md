@@ -3,6 +3,7 @@ Repositorio de clase ciencia de datos.
 
 En el presente repo se recolecta material de clase y material propio sobre un curso de ciencia de datos en python.
 Se hace uso de diferentes modelos como:
+
 -SVM
 
 -Random Forest
